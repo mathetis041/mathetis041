@@ -114,16 +114,19 @@ Passionate about crafting scalable UI systems, efficient state management, and p
 
 ## GitHub Stats
 
-
+<div align="center" display="flex">
 <div align="center">
-
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mathetis041&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mathetis041&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathetis041&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+</div>
 
 ### GitHub Trophies
 ### 🏆 GitHub Trophies
