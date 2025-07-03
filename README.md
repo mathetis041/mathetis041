@@ -33,47 +33,6 @@ Passionate about crafting scalable UI systems, efficient state management, and p
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
-
-## Featured Projects
-
-### [ Amani Real Estate](https://github.com/mathetis041/amani-frontend)
-> A platform that connects tenants directly to verified landlords, featuring map integration and SEO-rich listings.  
-**Tech Used:** React, TypeScript, Tailwind CSS  
-**Impact:** Over 1,000 verified landlords onboarded.
-
----
-
-### [ Reevgig](https://github.com/mathetis041/reevgig)
-> Empowering freelancers with real-time job postings and upskilling content.  
-**Tech Used:** React, TypeScript, CSS Modules  
-**Impact:** Helped 500+ freelancers find jobs and grow professionally.
-
----
-
-### [ MyFlow App](https://github.com/mathetis041/myflow)
-> Ovulation, cycle, and pregnancy tracking with Firebase backend, symptom logs, anonymous mode, and community support.  
-**Tech Used:** React, Vite, TypeScript, Tailwind CSS, Firestore  
-**Special Features:** Fertility timeline chart, partner sharing, symptom analytics.
-
----
-
-### [ Chef Palace](https://github.com/mathetis041/portfolio-1)
-> A food business site template with modular components, animations, and form integrations.  
-**Tech Used:** React, Framer Motion, Bootstrap, Formspree
-
----
-
-##  Achievements & Certifications
-
--  **IBM Certified Frontend React Developer**
--  **Udacity Frontend Nanodegree Graduate**
--  **Mastered REST API Integration & SEO Optimization**
--  Built & deployed 10+ fully responsive real-world applications
--  Champion of user-centered design and accessibility standards
-
----
-
 ## Let’s Connect
 
 <h3 align="center">Connect With Me</h3>
@@ -120,6 +79,8 @@ Passionate about crafting scalable UI systems, efficient state management, and p
 <div align="center">
 
   <img src="https://github-profile-trophy.vercel.app/?username=mathetis041&theme=algolia&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&title=Commits,PullRequest,Repositories,Followers,Joined,Achievements" alt="GitHub Trophies"/>
+   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-22c55e?style=flat-square&logo=codeforces&logoColor=white" alt="Experience Badge" />
+  <img src="https://img.shields.io/badge/Joined-2022-blueviolet?style=flat-square&logo=github&logoColor=white" alt="GitHub Join Date Badge" />
 
 </div>
 
