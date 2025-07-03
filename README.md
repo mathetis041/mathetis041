@@ -12,7 +12,7 @@
 <div align="center">
 
 <!-- Snake Grid Contribution -->
-<!-- Ensure this works by setting up GitHub Action properly -->
+<!-- Ensure GitHub Action is properly configured -->
 <img src="https://raw.githubusercontent.com/mathetis041/mathetis041/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light" />
 <img src="https://raw.githubusercontent.com/mathetis041/mathetis041/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />
 
@@ -34,6 +34,9 @@
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
 </p>
 
 ---
@@ -94,4 +97,3 @@
   <img src="https://img.shields.io/badge/Loves%20Collaboration-FF4081?style=for-the-badge&logo=gitbook&logoColor=white" />
 </p>
 
----
