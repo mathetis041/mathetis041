@@ -9,7 +9,7 @@ Passionate about crafting scalable UI systems, efficient state management, and p
 <div align="center">
 
   ![GitHub Snake Light](https://raw.githubusercontent.com/mathetis041/mathetis041/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  
+
   ![GitHub Snake Dark](https://raw.githubusercontent.com/mathetis041/mathetis041/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
