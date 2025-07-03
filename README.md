@@ -72,6 +72,39 @@
 </p>
 
 ---
+
+
+<h3 align="center">🚀 Tech Focused • Remote Ready • Always Learning</h3>
+
+<p align="center">
+  <!-- Skills & Experience Badges -->
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Typed-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styling-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tested-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Versioned-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Postman-orange?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Personal Branding Badges -->
+  <img src="https://img.shields.io/badge/Experience-3+%20Years-success?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Joined-2022-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-4B8BBE?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Remote%20Ready-00C853?style=for-the-badge&logo=zoom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loves%20Collaboration-FF4081?style=for-the-badge&logo=gitbook&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">🏆 GitHub Trophy Cabinet</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mathetis041&theme=algolia&no-frame=true&row=1&column=6&margin-w=10&margin-h=15&title=Commits,PullRequest,Repositories,Followers,Stars,Achievements" />
+</p>
+
+---
 ## 📈 GitHub Stats
 
 <p align="center">
