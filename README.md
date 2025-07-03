@@ -19,28 +19,19 @@ Passionate about crafting scalable UI systems, efficient state management, and p
 
 **Frontend:**  
 ### Tech Stack I Use
-
-<div align="center">
-
-  <!-- Core Stacks -->
-  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-CSS%20Modules-000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Modules"/>
-
-  <!-- Testing & Tooling -->
-  <br/><br/>
-  <strong> Testing & Tooling:</strong>
-  <br/>
-  <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-
-</div>
+<h3 align="center">Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
@@ -85,29 +76,24 @@ Passionate about crafting scalable UI systems, efficient state management, and p
 
 ## Let’s Connect
 
-<div align="center">
-
+<h3 align="center">Connect With Me</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/matthew-vincent-frontend-developer" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
   <a href="https://wa.me/2349030710941?text=Hi%20Matthew%2C%20I%20saw%20your%20GitHub%20profile." target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  
   <a href="mailto:matthewonuoha41@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  
   <a href="https://your-resume-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Resume-FFA500?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/-Resume-FFA500?style=flat-square&logo=readme&logoColor=white" alt="Resume" />
   </a>
-
-</div>
+</p>
 
 ---
 
