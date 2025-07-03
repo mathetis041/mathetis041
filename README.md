@@ -72,19 +72,37 @@
 </p>
 
 ---
-
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mathetis041&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mathetis041&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <!-- GitHub Stats -->
+  <img
+    title="Matthew Vincent's GitHub Stats"
+    alt="GitHub Stats"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=mathetis041&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  />
+
+  <!-- GitHub Streak (Use reliable domain) -->
+  <img
+    title="GitHub Streak"
+    alt="GitHub Streak"
+    width="49%"
+    src="https://streak-stats.demolab.com?user=mathetis041&theme=tokyonight&hide_border=true"
+  />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathetis041&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <!-- Most Used Languages -->
+  <img
+    title="Top Languages"
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathetis041&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
 
 ---
 
